@@ -81,10 +81,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
  
-\033[1;96m
+
 
  
-██████╗     ██╗  ██╗
+\033[1;96m██████╗     ██╗  ██╗
 ██╔cp account after 7 days ║ ██╔╝
 ██80% ids ██╔╝ 
 ██╔Just now open═██╗ 
